@@ -99,6 +99,7 @@ public class StepDef_MMT extends BaseClass
 	public void user_should_able_to_navigate_to_Flight_availablity_page() 
 	{
 	    System.out.println("Flight availability page");
+	    System.out.println("flight make my trip");
 	}
 	
 	
